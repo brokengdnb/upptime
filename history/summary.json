@@ -4,19 +4,19 @@
     "url": "https://master--jekyll-test-debase.netlify.app/",
     "icon": "https://icons.duckduckgo.com/ip3/master--jekyll-test-debase.netlify.app.ico",
     "slug": "home-page",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 107,
-    "timeDay": 38,
-    "timeWeek": 107,
-    "timeMonth": 153,
-    "timeYear": 107,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.12%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 106,
+    "timeDay": 44,
+    "timeWeek": 102,
+    "timeMonth": 150,
+    "timeYear": 106,
     "dailyMinutesDown": {
-      "2024-07-27": 0
+      "2024-07-27": 13
     }
   },
   {
